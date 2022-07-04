@@ -1,0 +1,9 @@
+# Deep Learning
+
+1. **What**: Extract useful patterns from data
+2. **How**: Neural Network (Algorithm/Architecture/Model) + Optimization (used in algorithm/architecture/model)
+3. **How (Practical)**: PyTorch/TensorFlow/MXNet/Flax
+4. **Why Now**: Data, Hardware, Tools
+
+
+
